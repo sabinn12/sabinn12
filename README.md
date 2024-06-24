@@ -24,7 +24,7 @@ I am Irakiza Sabin, a dedicated and passionate software engineer specializing in
 
 ## 📫 How to Reach Me
 - **Email**: [irakizasabin12@gmail.com](mailto:irakizasabin12@gmail.com)
-- **LinkedIn**: [Irakiza Sabin]([https://www.linkedin.com/in/irakiza-sabin](https://www.linkedin.com/in/irakiza-sabin-6a8a55230/))
+- **LinkedIn**: [Irakiza Sabin]((https://www.linkedin.com/in/irakiza-sabin-6a8a55230/))
 - **Twitter**: [@sabin-irakiza](https://x.com/sabin_irakiza)
 
 ## 😄 Pronouns
