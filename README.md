@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Irakiza Sabin</h1>
 <h3 align="center">a dedicated and passionate software engineer specializing in both PERN (PostgreSQL, Express.js, React, Node.js) and MERN (MongoDB, Express.js, React, Node.js) stacks.</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+
 
 - 📫 How to reach me **irakizasabin12@gmail.com**
 
