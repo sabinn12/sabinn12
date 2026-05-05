@@ -1,13 +1,11 @@
-<h1 align="center">Irakiza Sabin</h1>
+<h1 align="center">Hey 👋, I'm Irakiza Sabin</h1>
 
 <p align="center">
-Full Stack Developer
+Software Developer 
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300"/>
-</p>
+
 
 <p align="center">
-building real systems
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
 </p>
